@@ -1,3 +1,8 @@
+# Literally only forked to remove the hardcoded limit `MAX_CONNECTION_PER_SERVER`. Changed from 16 to 1024
+
+
+
+
 aria2 - The ultra fast download utility
 =======================================
 
