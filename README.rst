@@ -1,4 +1,4 @@
-Literally only forked to remove the hardcoded limit `MAX_CONNECTION_PER_SERVER`. Changed from 16 to 1024
+Literally only forked to remove the hardcoded limit `MAX_CONNECTION_PER_SERVER`. Changed from 16 to 1024. I needed a url for the dockerfile build to reference.
 =======================================
 
 
